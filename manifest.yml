@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cd4
+- name: "cd4"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
